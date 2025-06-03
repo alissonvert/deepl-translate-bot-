@@ -2,9 +2,9 @@
   "name": "deepl-translate-bot",
   "version": "1.0.0",
   "description": "Discord bot with DeepL translation via reactions",
-  "main": "bot.js",
+  "main": "bot2.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node bot2.js"
   },
   "dependencies": {
     "discord.js": "^14.11.0",
